@@ -1,9 +1,5 @@
 <h1 align="center"> Hello there!!! </h1>
 
-- 🔭 I’m Zubair
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate
-
 <div align="center">
 <img width="495em" src="https://github-readme-stats.vercel.app/api?username=user2695&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
 </div>
