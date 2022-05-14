@@ -22,3 +22,8 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![postgresql](https://img.shields.io/badge/postgresql-%2335495e.svg?style=for-the-badge&logo=postgresql&logoColor=%white)
+![html](https://img.shields.io/badge/html-%2335495e.svg?style=for-the-badge&logo=html5&logoColor=%white)
+![css](https://img.shields.io/badge/css3-%2335495e.svg?style=for-the-badge&logo=css3&logoColor=%white)
+![javascript](https://img.shields.io/badge/javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
+![ejs](https://img.shields.io/badge/ejs-%2335495e.svg?style=for-the-badge&logo=ejs&logoColor=%white)
