@@ -26,4 +26,4 @@
 ![html](https://img.shields.io/badge/html-%2335495e.svg?style=for-the-badge&logo=html5&logoColor=%white)
 ![css](https://img.shields.io/badge/css3-%2335495e.svg?style=for-the-badge&logo=css3&logoColor=%white)
 ![javascript](https://img.shields.io/badge/javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
-![ejs](https://img.shields.io/badge/ejs-%2335495e.svg?style=for-the-badge&logo=ejs&logoColor=%white)
+![ejs](https://img.shields.io/badge/EJS-%2335495e.svg?style=for-the-badge&logo=EJS&logoColor=%white)
