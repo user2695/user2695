@@ -1,14 +1,13 @@
 <h1 align="center"> Hello there!!! </h1>
 
-<div align="left">
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=user2695&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=user2695&include_all_commits=true&hide_border=false"/>
+<div>
+<img width="500em" margin="10%" src="https://github-readme-stats.vercel.app/api?username=user2695&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
+<img width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=user2695&include_all_commits=true&hide_border=false"/>
 </div>
 
 <div align="center">
 <img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs?username=user2695&layout=compact&custom_title=Most used languages by LOCs">
 </div>
-
 
 
 # Technologies
@@ -25,4 +24,3 @@
 ![html](https://img.shields.io/badge/html-%2335495e.svg?style=for-the-badge&logo=html5&logoColor=%white)
 ![css](https://img.shields.io/badge/css3-%2335495e.svg?style=for-the-badge&logo=css3&logoColor=%white)
 ![javascript](https://img.shields.io/badge/javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
-![ejs](https://img.shields.io/badge/EJS-%2335495e.svg?style=for-the-badge&logo=EJS&logoColor=%white)
