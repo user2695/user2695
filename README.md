@@ -1,8 +1,8 @@
 <h1 align="center"> Hello there!!! </h1>
 
 <div>
-<img width="47%" margin="10%" src="https://github-readme-stats.vercel.app/api?username=user2695&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=user2695&include_all_commits=true&hide_border=false"/>
+<img width="49%" margin="10%" src="https://github-readme-stats.vercel.app/api?username=user2695&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=user2695&include_all_commits=true&hide_border=false"/>
 </div>
 
 <div align="center">
