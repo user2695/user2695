@@ -23,7 +23,8 @@
 ![css](https://img.shields.io/badge/css3-%2335495e.svg?style=for-the-badge&logo=css3&logoColor=%white)
 ![javascript](https://img.shields.io/badge/javascript-%2335495e.svg?style=for-the-badge&logo=javascript&logoColor=%white)
 
-
+# Github Trophies
+![](https://github-profile-trophy.vercel.app/?username=user2695&theme=flat)
 
 # Views
 [![](https://visitcount.itsvg.in/api?id=user2695&icon=0&color=5)](https://visitcount.itsvg.in)
